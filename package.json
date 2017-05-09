@@ -1,0 +1,15 @@
+{
+  "name": "smithy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "nedb": "1.8.0",
+    "nedb-promise": "2.0.1",
+    "speakingurl": "13.0.0"
+  }
+}
